@@ -1,0 +1,20 @@
+,Oxydes d'azote (NOx),Monoxyde de carbone (CO),Hydrocarbures (THC),Hydrocarbures non méthaniques (HCNM),HC + NOX,Norme,CARBURANT,Hydrocarbures (HC)
+0,-,2 720,-,-,970,Euro 1,Diesel,
+1,-,1 000,-,-,700,Euro 2,Diesel,
+2,500,640,-,-,560,Euro 3,Diesel,
+3,250,500,-,-,300,Euro 4,Diesel,
+4,180,500,-,-,230,Euro 5a,Diesel,
+5,180,500,-,-,230,Euro 5b,Diesel,
+6,80,500,-,-,170,Euro 6b,Diesel,
+7,80,500,-,-,170,Euro 6c,Diesel,
+8,80,500,-,-,170,Euro 6d -TEMP,Diesel,
+9,80,500,-,-,170,Euro 6d,Diesel,
+10,-,2 720,,-,970,Euro 1,Essence,-
+11,-,2 200,,-,500,Euro 2,Essence,-
+12,150,2 200,,-,-,Euro 3,Essence,200
+13,80,1 000,,-,-,Euro 4,Essence,100
+14,60,1 000,,68,-,Euro 5[25],Essence,100
+15,60,1 000,,68,-,Euro 6b[26],Essence,100
+16,60,1 000,,68,-,Euro 6c,Essence,100
+17,60,1 000,,68,-,Euro 6d -TEMP,Essence,100
+18,60,1 000,,68,-,Euro 6d,Essence,100
