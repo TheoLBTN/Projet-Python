@@ -16,4 +16,4 @@ En parlant de modèles, nous avons décidé d'en réaliser deux différents:
   
 - L'autre beaucoup plus mathématique, tente de "fitter" les données à l'aide d'une équation différentielle (Tendances) en cherchant à capturer la croissance des véhicules électriques; exponentielle au début puis plus faible par la suite.
   
-Ces deux approches ont le même objectif final, estimer les émissions de monoxyde de carbone et d'oxyde d'azote tout deux nocifs pour la santé. Les tableaux d'émissions de particules fines des véhicules en fonction de leur carburant et de leur norme Euro utilisés ont été scrappé depuis wikipédia (Scrapping_particules_fines) et enregistrés sous format csv.
+Ces deux approches ont le même objectif final, estimer les émissions de monoxyde de carbone et d'oxyde d'azote tout deux nocifs pour la santé. Les tableaux d'émissions de particules fines des véhicules en fonction de leur carburant et de leur norme Euro utilisés ont été scrappé depuis wikipédia (Scrapping_particules_fines) et enregistrés sous format csv (emmissions_diesel et emmissions_essence).
