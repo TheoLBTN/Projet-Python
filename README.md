@@ -9,7 +9,7 @@ Théo LEBRETON
 
 Nous avions pour ambition de modéliser les émissions polluantes (oxyde d'azote, monoxyde de carbone en particulier) du parc automobile français jusqu'en 2050, en suivant des règles d'évolution simples. Ce projet se base principalement sur des données de l'ADEME du parc automibile français entre 2011 et 2022, qui donne le nombre de véhicule de chaque type (Crit'Air, carburant, etc) et de chaque âge pour toutes les années considérées. Notre projet se décompose en plusieurs phases. Tout d'abord, il a été nécessaire de modéliser l'évolution du parc automobile français en se focalisant uniquement sur les véhicules particuliers. Cette première modélisation étant primordiale pour pouvoir par la suite estimer les émissions polluantes rejetées par le parc.
 
-Pour ce faire nous avons commencé par étudier les données aux travers de diverses statistiques descriptives (Stat_descriptivesV2) afin d'axer notre étude et mieux calibrer nos modèles. 
+Pour ce faire nous avons commencé par étudier les données aux travers de diverses statistiques descriptives (Stat_descriptives) afin d'axer notre étude et mieux calibrer nos modèles. 
 
 Concernant les modèles, nous avons décidé d'en réaliser deux différents:
 
